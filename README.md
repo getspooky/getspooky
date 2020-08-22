@@ -1,5 +1,3 @@
-<img src="./Cover.jpg" />
-
 <b>Hi there, I'm Yasser!</b> 👋
 
 I'm a Full Stack JavaScript Developer from Morocco 🇲🇦 who is passionate about Web Development, blockchain and open source.

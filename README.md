@@ -8,3 +8,4 @@
 >
 > -- <cite>Philippe Kahn</cite>
 
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--mvoi2vUk--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png" />

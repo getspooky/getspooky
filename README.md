@@ -8,12 +8,12 @@
 >
 > -- <cite>Philippe Kahn</cite>
 
-## <samp>I am currently working with 👇 </samp> 
+### <samp>I am currently working with 👇 </samp> 
 
 <a href="https://reactjs.org/" taget="_blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--VHkumAEb--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/26/react-sticker.png" width="90" height="90" />
  <a href="https://nodejs.org/en/" taget="_blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--JEjbOLD1--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/23/node-sticker.png" width="90" height="90" />
  <a href="https://golang.org/" taget="_blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--yoKA8H-p--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/34/gopher-badge.png" width="90" height="90" />
  <a href="https://git-scm.com/" taget="_blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ytlCYKyP--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/22/git-sticker.png" width="90" height="90" /></a>
  
- ## <samp>Badges 🏅</samp>
+ ### <samp>Badges 🏅</samp>
  <a href="https://dev.to/getspooky" taget="_blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--mvoi2vUk--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png" width="90" height="90" /></a>

@@ -15,6 +15,7 @@
  <a href="https://golang.org/" taget="_blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--yoKA8H-p--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/34/gopher-badge.png" width="90" height="90" />
  <a href="https://git-scm.com/" taget="_blank"><img src="https://devstickers.com/assets/img/pro/i0dq.png" width="90" height="90" /></a>
 <a href="https://git-scm.com/" taget="_blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ytlCYKyP--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/22/git-sticker.png" width="90" height="90" /></a>
+ <a href="https://git-scm.com/" taget="_blank"><img src="https://devstickers.com/assets/img/pro/saxu.png" width="90" height="90" /></a>
  
  ### <samp>Badges 🏅</samp>
  <a href="https://dev.to/getspooky" taget="_blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--mvoi2vUk--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png" width="90" height="90" /></a>

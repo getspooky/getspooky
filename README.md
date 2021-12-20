@@ -8,7 +8,7 @@ If you use any of my packages, please consider sponsoring me 🤩.
 <a href="https://discord.gg/F42WnQzW"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://www.instagram.com/ameuryasser/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://liberapay.com/getspooky/"><img src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" /></a>
-<a href="https://www.buymeacoffee.com/POcAyQW" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 29px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/POcAyQW"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 29px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 > The power of Open Source is the power of the people. The people rule.
 >

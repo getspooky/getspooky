@@ -1,7 +1,6 @@
 ### <samp>Hey, there! 👋 </samp>
 
 <samp>I'm a Software Engineer from Morocco 🇲🇦 highly motivated, dynamic, persevering, rigorous. I was born in 1999 (you can do the math), I am passionate about Web Development, blockchain and open source (Every commit is a gift 🎁). If I'm not coding or chatting, i'm likely preparing some cup of tea 🍵.
-If you use any of my packages, please consider sponsoring me 🤩.
 </samp>
 
 <a href="https://www.linkedin.com/in/yasser-ameur-el-idrissi-747280191/"><img ssrc="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
